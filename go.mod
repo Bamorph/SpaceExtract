@@ -1,4 +1,4 @@
-module https://github.com/Bamorph/SpaceExtract
+module github.com/Bamorph/SpaceExtract
 
 go 1.21.0
 
