@@ -15,7 +15,7 @@ go install github.com/Bamorph/SpaceExtract@latest
 Run SpaceExtract with the path to your PDF file as an argument:
 
 ```
-SpaceExtract "C:\\PATHTOPDF"
+SpaceExtract.exe "C:\\PATHTOPDF"
 ```
 
 
